@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplicación Calculadora de propinas</string>
+    <string name="textViewTotalAmount">"Cantidad total:              "</string>
+    <string name="textViewTaxAmount">"Importe del impuesto:"</string>
+    <string name="enter_a_number">Ingrese un numero</string>
+    <string name="enter_a_number1">Enter a number</string>
+    <string name="textViewTipPercent">Porcentaje de propina</string>
+    <string name="radiobuttonZero">0%</string>
+    <string name="radiobuttonFive">5%</string>
+    <string name="radiobuttonTen">10%</string>
+    <string name="radiobuttonTwenty">20%</string>
+    <string name="buttonCalculate">Calcular</string>
+    <string name="buttonClear">Claro</string>
+    <string name="textViewTipAmount"> "Cantidad de propina:"</string>
+    <string name="textViewGrandTotal">"Gran total:           " </string>
+    <string name="calculated_tip">Consejo calculado</string>
+    <string name="calculated_total">Total calculado</string>
+    <string name="textView">$</string>
+</resources>

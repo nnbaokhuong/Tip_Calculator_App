@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="buttonClear">Clear</string>
+    <string name="textViewTipPercent">Tip Percentage: </string>
+    <string name="radiobuttonZero">0%</string>
+    <string name="radiobuttonFive">5%</string>
+    <string name="radiobuttonTen">10%</string>
+    <string name="radiobuttonTwenty">20%</string>
+    <string name="textViewTotalAmount">"Total Amount:"</string>
+    <string name="textViewTaxAmount">"Tax Amount:   "</string>
+    <string name="textViewTipAmount">Tip Amount:"</string>
+    <string name="textViewGrandTotal">"Grand Total:"</string>
+    <string name="enter_a_number">Enter total amount</string>
+    <string name="enter_a_number1">Enter tax amount</string>
+    <string name="calculated_tip">Calculated Tip</string>
+    <string name="calculated_total">Calculated Total</string>
+    <string name="textView">$</string>
+</resources>
